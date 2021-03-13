@@ -17,5 +17,5 @@
 - [미세먼지/온습도 시스템](https://github.com/J-jihee/Project/tree/main/Monitoring_system) (2020.10.21-2020.11.02)
 - [CC Robot(child Care Robot)](https://github.com/J-jihee/Project/tree/main/CC_Robot) (2020.10.28-2020.11.25)
 - [Yolo v3을 이용한 눈 관상찾기](https://github.com/J-jihee/Project/tree/main/Yolo) (2020.12.28-2020.12.30)
-- Kaggle Competitions RANZCR CLiP-Catheter and Line Position Challenge(2021.02.08-2021.02.26)
+- Kaggle Competitions RANZCR CLiP-Catheter and Line Position Challenge (2021.02.08-2021.02.26)
 
